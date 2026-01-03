@@ -18,7 +18,6 @@
     <ClCompile Include="projekt4github.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="utility.cpp">
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
