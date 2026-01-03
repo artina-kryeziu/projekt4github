@@ -7,6 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projekt4github", "projekt4g
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{28080618-298D-4031-8D3E-FDDA42A4CBAE}"
 	ProjectSection(SolutionItems) = preProject
+		math.cpp = math.cpp
 		student.cpp = student.cpp
 	EndProjectSection
 EndProject
