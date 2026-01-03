@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projekt4github", "projekt4github\projekt4github.vcxproj", "{DF8855DE-4FD4-4D39-ACA6-B0F46E83A4B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{28080618-298D-4031-8D3E-FDDA42A4CBAE}"
+	ProjectSection(SolutionItems) = preProject
+		math.cpp = math.cpp
+		student.cpp = student.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
